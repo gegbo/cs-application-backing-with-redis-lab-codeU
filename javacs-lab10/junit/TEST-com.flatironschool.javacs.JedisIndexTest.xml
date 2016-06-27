@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Grace-PC" name="com.flatironschool.javacs.JedisIndexTest" skipped="0" tests="1" time="2.751" timestamp="2016-06-27T07:06:43">
+<testsuite errors="0" failures="0" hostname="Grace-PC" name="com.flatironschool.javacs.JedisIndexTest" skipped="0" tests="1" time="2.492" timestamp="2016-06-27T07:11:40">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.SYSTEMROOT" value="C:\Windows" />
@@ -93,7 +93,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="java.class.path" value="c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\bin;c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\lib\jedis-2.8.0.jar;c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\lib\jsoup-1.8.3.jar;c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\lib\junit-4.12.jar;c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\lib\hamcrest-core-1.3.jar;c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\lib\hamcrest-library-1.3.jar;C:\Program Files\apache-ant-1.9.6\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.9.6\lib\ant.jar;C:\Program Files\apache-ant-1.9.6\lib\ant-junit.jar;C:\Program Files\apache-ant-1.9.6\lib\ant-junit4.jar" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.JedisIndexTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\junit\TEST-com.flatironschool.javacs.JedisIndexTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\junitvmwatcher7293565675469246831.properties propsfile=c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\junit7421158123651635678.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.JedisIndexTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\junit\TEST-com.flatironschool.javacs.JedisIndexTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\junitvmwatcher4533271618607952738.properties propsfile=c:\Sites\cs-application-backing-with-redis-lab-codeU\javacs-lab10\junit7734181208838575045.properties" />
     <property name="env.PROGRAMW6432" value="C:\Program Files" />
     <property name="env.PROGRAMFILES(X86)" value="C:\Program Files (x86)" />
     <property name="ant.file.type.JavaCS" value="file" />
@@ -137,7 +137,7 @@
     <property name="ant.project.invoked-targets" value="test" />
     <property name="env.PROCESSOR_LEVEL" value="6" />
   </properties>
-  <testcase classname="com.flatironschool.javacs.JedisIndexTest" name="testGetCounts" time="2.689" />
+  <testcase classname="com.flatironschool.javacs.JedisIndexTest" name="testGetCounts" time="2.426" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

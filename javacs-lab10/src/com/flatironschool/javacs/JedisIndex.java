@@ -77,6 +77,7 @@ public class JedisIndex {
 	 * @return Map from URL to count.
 	 */
 	public Map<String, Integer> getCounts(String term) {
+	
 		Map<String, Integer> map = new HashMap<String, Integer>(); 
 		Set<String> urlList = getURLs(term); 
 
